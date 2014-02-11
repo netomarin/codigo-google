@@ -16,5 +16,5 @@ Além de blogs e sites para desenvolvedores, temos também dois canais no YouTub
 Não deixe de acompanhar nossos perfis no Google+, onde sempre são postadas dicas, eventos, anúncios e etc. E onde você pode interagir com toda a equipe de Developer Relations do Google no Brasil e em todo o resto do mundo:
 * [Google Developers](http://plus.google.com/+GoogleDevelopers)
 * [Android Developers](http://plus.google.com/+AndroidDevelopers)
-* [Comunidade Desenvolvimento Android - Brasil]
+* [Comunidade Desenvolvimento Android - Brasil](http://plus.google.com/communities/117285913788478579842)
 * [+Neto Marin](http://plus.google.com/+NetoMarin)
