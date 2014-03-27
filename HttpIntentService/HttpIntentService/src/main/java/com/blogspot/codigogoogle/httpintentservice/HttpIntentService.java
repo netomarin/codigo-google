@@ -50,9 +50,9 @@ public class HttpIntentService extends IntentService {
                 }
             }
         } catch (MalformedURLException e) {
-            e.printStackTrace();
+            Log.e("HttpIntentService", e.getMessage());
         } catch (IOException e) {
-            e.printStackTrace();
+            Log.e("HttpIntentService", e.getMessage());
         }
     }
 }
