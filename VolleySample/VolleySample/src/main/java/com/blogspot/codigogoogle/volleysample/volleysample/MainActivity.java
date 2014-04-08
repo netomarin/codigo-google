@@ -47,8 +47,8 @@ public class MainActivity extends ActionBarActivity implements Response.ErrorLis
 
     private void countWords() {
         String url = WebCommons.WS_HOST+WebCommons.WS_PATH_WORD_COUNTER;
-        StringRequest strReq = new StringRequest(Request.Method.POST, url, this, this) {
-
+        StringRequest strReq = new StringRequest(Request.Method.POST, url,
+                this, this) {
             @Override
             protected Map<String,String> getParams(){
                 Map<String,String> params = new HashMap<String, String>();
