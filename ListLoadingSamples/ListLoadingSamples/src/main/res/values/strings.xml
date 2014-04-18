@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListLoadingSamples</string>
+    <string name="title_section0">Basic ArrayAdapter</string>
+    <string name="title_section1">ViewHold List</string>
+    <string name="title_section2">Endless Scroll</string>
+    <string name="title_section3">Images List</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
